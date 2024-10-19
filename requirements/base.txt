@@ -1,0 +1,16 @@
+fastapi
+asyncpg
+uvicorn
+sqlalchemy
+alembic
+python-multipart
+python-dotenv
+psycopg2-binary
+langchain
+langchain-openai
+langchain_community
+langgraph
+tavily-python
+langgraph-checkpoint-sqlite
+
+
